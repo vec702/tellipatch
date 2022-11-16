@@ -62,6 +62,6 @@ You may have clicked somewhere inside the cmd prompt window, causing it to enter
 
 ----------------------------------------------------------------
 
-Credit to PLM, Princess Alice (Telli), Dau, Emuz, Enlike, Nyao, Vector, Vi Ness, Xithyl_kykori, and Zackmon.
+Credit to 1UP, PLM, Princess Alice, Dau, Emuz, Enlike, Nyao, Vector, Vi Ness, Xithyl_kykori, and Zackmon.
 
-Special thanks to 1UP, Alkalime, Bison, Dash, Erroneous, Esor, Falions, Harrito, NCDyson, rlstine, Snownami, Robert Coldbird & the Netslum community.
+Special thanks to Alkalime, Bison, Dash, Erroneous, Esor, Falions, Harrito, NCDyson, rlstine, Snownami, Robert Coldbird & the Netslum community.
